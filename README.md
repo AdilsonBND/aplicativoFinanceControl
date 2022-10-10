@@ -13,6 +13,10 @@
  
 ### Instalação React-native
 
+Para executar o aplicativo é necessário ter instalado o React-native CLI disponível na documentação do fabricante : https://reactnative.dev/docs/environment-setup.
+
+
+
 
 
                                                                                                             
