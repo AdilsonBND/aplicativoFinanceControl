@@ -25,6 +25,15 @@ project.ext.react = [
 ]
 </pre>
 
+Agora, deverá adicionar criar sua conta no Firebase e configurar as dependencias seguindo os procedimentos descritos nesse site: https://rnfirebase.io/
+
+Também, para ativar a localização deverá realizar cadastro no GoogleCloud, instalar a api GEOCoder, criar suas credenciais e adicioná-las no arquivo src/Pages/NewEntry/NewEntryAdressPicker/index.js:
+
+<pre>
+const getLocation = (latitude, longitude) => {
+        Geocoder.init('INCLUA AQUI SUAS CREDENCIAIS')
+</pre>
+
 Agora basta instalar as dependências com o comando:
 * npm install
 
