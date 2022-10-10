@@ -19,11 +19,18 @@ Após instalação do react-native já com um novo projeto criado, copie a pasta
 Substitua os arquivos index.js e package.json do novo projeto criado pelo disponibilizado neste repositório.
 Agora será necessário alterar o arquivo android/app/build.gradle do novo projeto criado.
 
-<pre align="center">
+<pre>
 project.ext.react = [
     enableHermes: true,  // alterar para false
 ]
 </pre>
+
+Agora basta instalar as dependências com o comando:
+* npm install
+
+Abra o emulador android de sua preferência ou conecte seu dispositivo android com permissão para depuração e inicie o projeto:
+
+* npx react-native run-android
 
 
 
