@@ -34,12 +34,20 @@ const getLocation = (latitude, longitude) => {
         Geocoder.init('INCLUA AQUI SUAS CREDENCIAIS')
 </pre>
 
-Agora basta instalar as dependências com o comando:
+Feito isso, basta instalar as dependências com o comando:
 * npm install
 
 Abra o emulador android de sua preferência ou conecte seu dispositivo android com permissão para depuração e inicie o projeto:
 
 * npx react-native run-android
+
+
+### Sobre o Projeto
+
+Projeto desenvolvido durante treinamento da DevSamurai https://github.com/DevSamurai ministrada pelo professor Felipe Fontoura.
+
+Projeto atualizado para versão 0.70 do react-native.
+
 
 
 
