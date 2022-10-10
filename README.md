@@ -3,8 +3,8 @@
 
 ## Tela Inicial
 
-<div align="center' width="50%">
-![Tela Inicial](https://github.com/AdilsonBND/aplicativoFinanceControl/blob/main/Screens%20App/main.png)
+<div align="center'>
+<img src="https://github.com/AdilsonBND/aplicativoFinanceControl/blob/main/Screens%20App/main.png" width="25%"/>
 
 ## Tela de Seleção de dados
 
