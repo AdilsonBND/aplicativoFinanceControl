@@ -10,6 +10,9 @@
   <img src="https://github.com/AdilsonBND/aplicativoFinanceControl/blob/main/Screens%20App/newEntry.png" width="25%"  />
 </div>
  
+### Instalação React-native
+
+
                                                                                                             
                                                                                                               
 
