@@ -15,6 +15,18 @@
 
 Para executar o aplicativo é necessário ter instalado o React-native CLI disponível na documentação do fabricante : https://reactnative.dev/docs/environment-setup.
 
+Após instalação do react-native já com um novo projeto criado, copie a pasta SRC deste projeto para dentro do novo projeto criado.
+Substitua os arquivos index.js e package.json do novo projeto criado pelo disponibilizado neste repositório.
+Agora será necessário alterar o arquivo android/app/build.gradle do novo projeto criado.
+
+<pre align="center">
+project.ext.react = [
+    enableHermes: true,  // alterar para false
+]
+</pre>
+
+
+
 
 
 
