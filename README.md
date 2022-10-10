@@ -1,5 +1,2 @@
-<h1 align="center">Aplicativo Finance Control</h1>
+[aplicativoFinanceControl/blob/main/Screens%20App/main.png" width="25%](https://github.com/AdilsonBND/aplicativoFinanceControl/blob/main/Screens%20App/main.png)
 
-<div align="center'>
-<img src="aplicativoFinanceControl/blob/main/Screens%20App/main.png" width="25%"/>
-</div>
