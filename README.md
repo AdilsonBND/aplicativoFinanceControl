@@ -5,6 +5,7 @@
 
 <pre align="center">Como executar ?</pre>
 
+<div>
 <div align="right">
   <img src="https://github.com/AdilsonBND/aplicativoFinanceControl/blob/main/Screens%20App/report.png" width="25%"  />
   <img src="https://github.com/AdilsonBND/aplicativoFinanceControl/blob/main/Screens%20App/newEntry.png" width="25%"  />
@@ -12,6 +13,7 @@
  
 ### Instalação React-native
 
+</div>
 
                                                                                                             
                                                                                                               
