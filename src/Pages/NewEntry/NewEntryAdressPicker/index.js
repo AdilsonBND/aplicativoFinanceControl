@@ -10,7 +10,7 @@ import Geocoder from 'react-native-geocoding'
 const NewEntryAdressPicker = ({address, onChange}) => {
 
     const getLocation = (latitude, longitude) => {
-        Geocoder.init('AIzaSyBRgzVBz-FGJquwrNcleOPC8MSbeQyRNK8')
+        Geocoder.init('xxxxx')
         Geocoder.from({ latitude, longitude })
             .then(json => {
                 const formatedAddress = json.results[0].formatted_address
