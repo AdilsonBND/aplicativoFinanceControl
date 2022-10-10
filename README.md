@@ -5,7 +5,7 @@
 
 <pre align="center">Como executar ?</pre>
 
-<div align="center">
+<div align="right">
   <img src="https://github.com/AdilsonBND/aplicativoFinanceControl/blob/main/Screens%20App/main.png" width="25%"  />
 </div>
  
