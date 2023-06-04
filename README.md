@@ -3,6 +3,8 @@
   <img src="https://github.com/AdilsonBND/aplicativoFinanceControl/blob/main/Screens%20App/main.png" width="25%"  />
 </div>
 
+<h3> Trata-se do projeto realizado no intuito de aprender a programar aplicativos mobile utilizando-se da linguagem JavaScript e framework ReactNative <br>
+
 <pre align="center">Como executar ?</pre>
 
 
