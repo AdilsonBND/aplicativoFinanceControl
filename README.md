@@ -4,6 +4,8 @@
 </div>
 
 <h3> Trata-se do projeto realizado no intuito de aprender a programar aplicativos mobile utilizando-se da linguagem JavaScript e framework ReactNative <br>
+  <br>
+  <br>
 
 <pre align="center">Como executar ?</pre>
 
